@@ -61,3 +61,5 @@ while(threat){
     console.log(attacks)
     console.log(`bot 1s health is ${bot1Health} and bot 2s health is ${bot2Health}`)
 }
+
+// this is a new message
